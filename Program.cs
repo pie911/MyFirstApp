@@ -6,7 +6,10 @@ namespace MyFirstApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello from Program!");
+
+            // Call the method from AnotherFile
+            AnotherFile.Run();
         }
     }
 }
