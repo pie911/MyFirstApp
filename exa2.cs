@@ -10,6 +10,7 @@ namespace MyFirstApp
             Console.Write("This is ");
             Console.Write("the second ");
             Console.Write("line.");
+            Console.WriteLine(0.25F);
         }
     }
 }
