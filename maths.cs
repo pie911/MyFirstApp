@@ -47,5 +47,13 @@ Console.WriteLine("Second decrement: " + value);
 value--;
 Console.WriteLine("Third decrement: " + value);
         }
+        public static void tempra()
+        {
+            decimal fahrenheit;
+            Console.Write("Enter The Value in Celsius:");
+            fahrenheit = decimal.Parse(Console.ReadLine());
+decimal celsius = (fahrenheit - 32m) * (5m / 9m);
+Console.WriteLine("The temperature is " + celsius + " Celsius.");
+        }
     }
 }

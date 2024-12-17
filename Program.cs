@@ -54,6 +54,7 @@ namespace MyFirstApp
                    break; 
 
                 case "maths":
+                maths.tempra();
                 maths.indec();
                 maths.impl();
                 maths.Run();   
