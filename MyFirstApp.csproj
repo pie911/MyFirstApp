@@ -12,5 +12,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="AnotherFile.cs" />
+    <Compile Include="exa2.cs" />
   </ItemGroup>
 </Project>

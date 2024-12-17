@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.VisualBasic.FileIO;
 
 namespace MyFirstApp
 {
@@ -10,6 +11,7 @@ namespace MyFirstApp
 
             // Call the method from AnotherFile
             AnotherFile.Run();
+            exa2.Run();
         }
     }
 }
