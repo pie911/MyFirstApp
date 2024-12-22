@@ -3,7 +3,7 @@ namespace MyFirstApp
 {
     class GPAStatic
     {
-        public static void GPAsimpel(
+        public static void GPAsimpel()
             {
                 string studentName = "Sophia Johnson";
 string course1Name = "English 101";
