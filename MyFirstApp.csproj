@@ -15,5 +15,6 @@
     <Compile Include="AnotherFile.cs" />
     <Compile Include="exa2.cs" />
     <Compile Include="maths.cs" />
+    <Compile Include="GPAStatic.cs" />
   </ItemGroup>
 </Project>
